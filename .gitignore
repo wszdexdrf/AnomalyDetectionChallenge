@@ -1,0 +1,5 @@
+.venv/
+*.npy
+*.dat
+old*
+__pycache__/
